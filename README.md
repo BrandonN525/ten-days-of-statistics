@@ -1,2 +1,2 @@
 # Ten Days of Statistics
-I will be committing all ten days, once completed.
+The ten days of statistics challenge from Hackerrank, completed in one go.
